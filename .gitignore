@@ -1,0 +1,19 @@
+# package directories
+node_modules
+jspm_packages
+created-logs
+coverage
+.yarn
+.yarnrc.yml
+.npmrc
+
+# Serverless directories
+.serverless
+
+# esbuild directories
+.esbuild
+
+#enviroment
+.env
+.env.*
+src/database/config.json

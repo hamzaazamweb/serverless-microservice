@@ -1,0 +1,16 @@
+{
+  "name": "serverless-micro-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "scripts": {
+    "startB":"sls offline --config serverless.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
